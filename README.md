@@ -6,12 +6,13 @@
 	src="https://github-profile-trophy.vercel.app/?username=invshakil" alt="invshakil" /></a></p>
 <p align="left"><a href="https://twitter.com/syfulshakil_" target="_blank"><img
 	src="https://img.shields.io/twitter/follow/syfulshakil_?logo=twitter&style=for-the-badge" alt="syfulshakil_" /></a></p>
+	
 - 🌱 I’m currently learning **flutter**
-- 👨‍💻 All of my projects are available at [https://github.com/invshakil?tab=repositories](https://github.com/invshakil?tab=repositories)
-- 📝 I regularly write articles on [https://www.sshakil.com/blog](https://www.sshakil.com/blog)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/invshakil?tab=repositories)
+- 📝 I regularly write articles on [sshakil.com/blog](https://www.sshakil.com/blog)
 - 💬 Ask me about **laravel, vue, react**
 - 📫 How to reach me **syful.shakil.it@gmail.com**
-- 📄 Know about my experiences [https://www.sshakil.com](https://www.sshakil.com)
+- 📄 Know about my experiences [sshakil.com](https://www.sshakil.com)
 - ⚡ Constant **Dieheart @LFC fan**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
