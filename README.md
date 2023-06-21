@@ -13,7 +13,7 @@
 - 💬 Ask me about **laravel, vue, react**
 - 📫 How to reach me **syful.shakil.it@gmail.com**
 - 📄 Know about my experiences [sshakil.com](https://www.sshakil.com)
-- ⚡ Constant **Dieheart @LFC fan**
+- ⚽ **Dieheart @LFC fan**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://twitter.com/syfulshakil_" target="_blank"><img align="center"
