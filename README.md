@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [sshakil.com/blog](https://www.sshakil.com/blog)
 - 💬 Ask me about **laravel, vue, react**
 - 📫 How to reach me **syful.shakil.it@gmail.com**
-- 📄 Know about my experiences [sshakil.com](https://www.sshakil.com)
+- 📄 Know about my experiences [https://www.linkedin.com/in/syful-shakil/](https://www.linkedin.com/in/syful-shakil/)
 - ⚽ **Dieheart @LFC fan**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
